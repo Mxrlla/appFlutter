@@ -107,7 +107,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             const Text(
               'O botão do + foi pressionado:',
-              style: TextStyle(color: Colors.deepPurple, fontSize: 20),
+              style: TextStyle(color: Colors.blueGrey, fontSize: 20),
             ),
             Text(
               '$_counter',
