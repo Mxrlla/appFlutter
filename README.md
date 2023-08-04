@@ -6,4 +6,5 @@ Aprendendo flutter do zero
 
 > Calculadora
 <br>
-<img width="150" alt="image" src="https://github.com/Mxrlla/appFlutter/assets/93985773/92877976-b254-42f6-ba5b-8faa9fe67588">
+
+<img width="150" alt="image" src="https://github.com/Mxrlla/appFlutter/assets/93985773/d699c9a3-83c6-4182-a1de-6967677c22cf">
